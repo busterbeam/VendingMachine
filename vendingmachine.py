@@ -51,7 +51,7 @@ def ChangeMaker(recieved):    #Returns only coins from inserted money
 ##        payment.append(float(inserted))
 ##    else:
 ##        break
-price = 2.00            #DEBUGGIN CODE
+price = 2.00            #DEBUGGING CODE
 payment= [2.07]
 
 priceCheck(price,payment)
