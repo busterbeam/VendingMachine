@@ -42,7 +42,7 @@ def ChangeMaker(recieved):    #Returns only coins from inserted money
             break
     
      
-##price = float(input('What is the price of the item?'))
+##price = float(input('What is the price of the item?'))       #ORIGIANL CODE
 ##payment = []
 ##print('Enter coins and bills. Enter "Done" when finished')
 ##while True:
@@ -51,7 +51,7 @@ def ChangeMaker(recieved):    #Returns only coins from inserted money
 ##        payment.append(float(inserted))
 ##    else:
 ##        break
-price = 2.00
+price = 2.00            #DEBUGGIN CODE
 payment= [2.07]
 
 priceCheck(price,payment)
